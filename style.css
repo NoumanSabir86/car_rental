@@ -1,0 +1,8 @@
+.container {
+  margin-top: 5rem;
+}
+
+#percentage,
+#flatRate {
+  width: 50px;
+}
